@@ -1,5 +1,5 @@
-const name = prompt("Введите ваше имя")
+const name = prompt("Введите ваше имя");
 function dreeting(name) {
     return name;
 }
-alert(`Привет, ${name}!`);
+console.log(`Привет, ${name}!`);
